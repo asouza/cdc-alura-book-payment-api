@@ -1,0 +1,11 @@
+.idea/
+feel.iml
+target/
+.DS_Store/
+.settings/
+.metadata
+bin
+.classpath
+.project
+.settings
+.springBeans

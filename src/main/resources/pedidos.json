@@ -1,0 +1,155 @@
+[
+	{
+		"id": 2316,
+		"valor": 235.92,
+		"data": 1542765600000,
+		"produtos": [
+			{
+				"id": 0,
+				"titulo": "Cangaceiro JavaScript",
+				"descricao": "Uma aventura no sertão da programação",
+				"paginas": 502,
+				"sumarioPath": null,
+				"precos": [
+					{
+						"valor": 29.9,
+						"tipo": "EBOOK"
+					},
+					{
+						"valor": 39.9,
+						"tipo": "IMPRESSO"
+					},
+					{
+						"valor": 59.9,
+						"tipo": "COMBO"
+					}
+				],
+				"dataLancamento": 1468551600000
+			},
+			{
+				"id": 0,
+				"titulo": "Bootstrap 4",
+				"descricao": "Conheça a biblioteca front-end mais utilizada no mundo",
+				"paginas": 172,
+				"sumarioPath": null,
+				"precos": [
+					{
+						"valor": 19.9,
+						"tipo": "EBOOK"
+					},
+					{
+						"valor": 39.9,
+						"tipo": "IMPRESSO"
+					},
+					{
+						"valor": 49.9,
+						"tipo": "COMBO"
+					}
+				],
+				"dataLancamento": 1513821600000
+			}
+		]
+	},
+	{
+		"id": 4125,
+		"valor": 68.76,
+		"data": 1539226800000,
+		"produtos": [
+			{
+				"id": 0,
+				"titulo": "Spring MVC",
+				"descricao": "Domine o principal framework web Javao",
+				"paginas": 260,
+				"sumarioPath": null,
+				"precos": [
+					{
+						"valor": 19.9,
+						"tipo": "EBOOK"
+					},
+					{
+						"valor": 29.9,
+						"tipo": "IMPRESSO"
+					},
+					{
+						"valor": 39.9,
+						"tipo": "COMBO"
+					}
+				],
+				"dataLancamento": 1519959600000
+			}
+		]
+	},
+	{
+		"id": 7416,
+		"valor": 140.41,
+		"data": 1535770800000,
+		"produtos": [
+			{
+				"id": 0,
+				"titulo": "Java EE",
+				"descricao": "Aproveite toda a plataforma para construir aplicações",
+				"paginas": 332,
+				"sumarioPath": null,
+				"precos": [
+					{
+						"valor": 29.9,
+						"tipo": "EBOOK"
+					},
+					{
+						"valor": 69.9,
+						"tipo": "IMPRESSO"
+					},
+					{
+						"valor": 79.9,
+						"tipo": "COMBO"
+					}
+				],
+				"dataLancamento": 1513821600000
+			},
+			{
+				"id": 0,
+				"titulo": "Introdução à Arquitetura e Design de Software",
+				"descricao": "Uma visão sobre a plataforma Java",
+				"paginas": 355,
+				"sumarioPath": null,
+				"precos": [
+					{
+						"valor": 29.9,
+						"tipo": "EBOOK"
+					},
+					{
+						"valor": 69.9,
+						"tipo": "IMPRESSO"
+					},
+					{
+						"valor": 79.9,
+						"tipo": "COMBO"
+					}
+				],
+				"dataLancamento": 1513821600000
+			},
+			{
+				"id": 0,
+				"titulo": "Java 8 Prático",
+				"descricao": "Lambdas, Streams e os novos recursos da linguagem",
+				"paginas": 151,
+				"sumarioPath": null,
+				"precos": [
+					{
+						"valor": 19.9,
+						"tipo": "EBOOK"
+					},
+					{
+						"valor": 49.9,
+						"tipo": "IMPRESSO"
+					},
+					{
+						"valor": 69.9,
+						"tipo": "COMBO"
+					}
+				],
+				"dataLancamento": 1513821600000
+			}
+		]
+	}
+]
